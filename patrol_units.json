@@ -1,7 +1,7 @@
 {
-  "unit": null
-  "department": null
-  "patrol_name": null
-  "location": null
-  "code": null
+  "unit": "2-L-7",
+  "department": "LSPD",
+  "patrol_name": "Richard_Underground",
+  "location": "Los-Santos, Pershing Square",
+  "code": "CODE 4"
 }

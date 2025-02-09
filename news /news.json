@@ -1,2 +1,10 @@
 {
+  "news": [
+    "head": "Большое обновление!",
+    "date": "09.02.2024",
+    "description": "Тест",
+    "full description": [
+      "Test", "test"
+    ]
+  ]
 }

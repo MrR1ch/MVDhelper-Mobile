@@ -1,5 +1,4 @@
 [
-   // STANDART CARS
    { "id": 400, "name": "LANDSTALKER" },
    { "id": 401, "name": "BRAVURA" },
    { "id": 402, "name": "BUFFALO" },
@@ -213,7 +212,6 @@
    { "id": 610, "name": "FARM TRAILER" },
    { "id": 611, "name": "UTILITY TRAILER" },
    
-   // CUSTOM CARS (Arizona)
    { "id": 612, "name": "MERCEDES GT63" },
    { "id": 613, "name": "MERCEDES-BENZ G63 AMG" },
    { "id": 614, "name": "AUDI RS6" },
